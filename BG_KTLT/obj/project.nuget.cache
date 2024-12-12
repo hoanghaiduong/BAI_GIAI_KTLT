@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dieE/G0OWoM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HoangHaiDuong\\Desktop\\BAI_GIAI_KTLT\\BG_KTLT\\BG_KTLT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HoangHaiDuong\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\HoangHaiDuong\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

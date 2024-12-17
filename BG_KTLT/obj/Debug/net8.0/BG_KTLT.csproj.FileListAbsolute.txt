@@ -16,3 +16,4 @@ C:\Users\HoangHaiDuong\Desktop\BAI_GIAI_KTLT\BG_KTLT\bin\Debug\net8.0\ConsoleTab
 C:\Users\HoangHaiDuong\Desktop\BAI_GIAI_KTLT\BG_KTLT\bin\Debug\net8.0\Wcwidth.dll
 C:\Users\HoangHaiDuong\Desktop\BAI_GIAI_KTLT\BG_KTLT\obj\Debug\net8.0\BG_KTLT.csproj.AssemblyReference.cache
 C:\Users\HoangHaiDuong\Desktop\BAI_GIAI_KTLT\BG_KTLT\obj\Debug\net8.0\BG_KTLT.csproj.Up2Date
+C:\Users\HoangHaiDuong\Desktop\BAI_GIAI_KTLT\BG_KTLT\obj\Debug\net8.0\BG_KTLT.sourcelink.json

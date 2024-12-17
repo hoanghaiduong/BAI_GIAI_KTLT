@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BG_KTLT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef55febac13e8df8fd9bd058a066622885c645b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BG_KTLT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BG_KTLT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

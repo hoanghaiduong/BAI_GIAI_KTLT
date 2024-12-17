@@ -11,8 +11,11 @@ class Program
         int n;
         do
         {
+            Console.WriteLine("---Danh sách bài tập---");
             Console.WriteLine("1. Bai 1");
+            Console.Write("Mời bạn chọn bài tập nè: ");
             n = int.Parse(Console.ReadLine());
+            Console.WriteLine("Bạn chọn bài {0} ", n);
             switch (n)
             {
                 case 1:
